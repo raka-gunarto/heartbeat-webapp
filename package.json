@@ -1,0 +1,25 @@
+{
+  "name": "heartbeat-webapp",
+  "version": "1.0.0",
+  "description": "Reads heartrate data from an arduino and displays it in a webapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raka-gunarto/heartbeat-webapp.git"
+  },
+  "keywords": [
+    "heartrate",
+    "arduino",
+    "webapp",
+    "websockets"
+  ],
+  "author": "Raka Gunarto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raka-gunarto/heartbeat-webapp/issues"
+  },
+  "homepage": "https://github.com/raka-gunarto/heartbeat-webapp#readme"
+}
